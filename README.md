@@ -18,7 +18,7 @@ g, h, i
 ```shell
 # output examle
 \begin{table}[htb]
-        \begin{tabular}{|C|C|C|}
+        \begin{tabular}{|c|c|c|}
                 a & b & c \\ \hline
                 d & e & f \\
                 g & h & i \\
@@ -26,7 +26,7 @@ g, h, i
 \end{table}
 ```
 
-command option is these.
+command options are these.
 
 ```shell
 $csv_to_latexteble --help
